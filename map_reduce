@@ -1,0 +1,67 @@
+#upload CSV to HDFS
+hdfs dfs -mkdir -p /user/maria_dev/amazon/input
+hdfs dfs -put /home/maria_dev/cleaned_amazon_data.csv /user/maria_dev/amazon/input/
+
+#mapper
+cat > /home/maria_dev/mapper.py << 'EOF'
+#!/usr/bin/env python
+import sys
+import csv
+
+for line in sys.stdin:
+    line = line.strip()
+    if line.startswith('asin'):
+        continue
+    try:
+        fields = list(csv.reader([line]))[0]
+        category = fields[6].strip()
+        purchases = fields[8].strip()
+        if category and purchases:
+            print("%s\t%s" % (category, purchases))
+    except Exception:
+        continue
+EOF
+#reducer 
+cat > /home/maria_dev/reducer.py << 'EOF'
+#!/usr/bin/env python
+import sys
+
+current_category = None
+total_purchases = 0
+
+for line in sys.stdin:
+    line = line.strip()
+    try:
+        category, purchases = line.split('\t', 1)
+        purchases = int(float(purchases))
+    except ValueError:
+        continue
+    if current_category == category:
+        total_purchases += purchases
+    else:
+        if current_category is not None:
+            print("%s\t%s" % (current_category, total_purchases))
+        current_category = category
+        total_purchases = purchases
+
+if current_category is not None:
+    print("%s\t%s" % (current_category, total_purchases))
+EOF
+
+#Locally tests the MapReduce pipeline on 100 lines before running the full Hadoop job.
+head -100 /home/maria_dev/cleaned_amazon_data.csv | python /home/maria_dev/mapper.py | sort | python /home/maria_dev/reducer.py
+
+#running the full Hadoop MapReduce job:
+hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar \
+  -input /user/maria_dev/amazon/input/cleaned_amazon_data.csv \
+  -output /user/maria_dev/amazon/output \
+  -mapper /home/maria_dev/mapper.py \
+  -reducer /home/maria_dev/reducer.py \
+  -file /home/maria_dev/mapper.py \
+  -file /home/maria_dev/reducer.py
+
+#view the results 
+hdfs dfs -cat /user/maria_dev/amazon/output/part-00000
+
+#save the results 
+hdfs dfs -get /user/maria_dev/amazon/output/part-00000 /home/maria_dev/results.txt
