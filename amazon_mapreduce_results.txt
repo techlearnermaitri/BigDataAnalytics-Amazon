@@ -1,0 +1,1042 @@
+AMAZON MAPREDUCE ANALYSIS — FULL RESULTS
+Generated: 2026-04-08 17:45:22
+═════════════════════════════════════════════════════════════════
+
+═════════════════════════════════════════════════════════════════
+  1 · CATEGORY-WISE AVERAGE RATINGS
+═════════════════════════════════════════════════════════════════
+  Category                                 Avg Rating  Bar
+─────────────────────────────────────────────────────────────────
+  Health Personal Care                           4.42  ★★★★
+  Home Kitchen                                   4.40  ★★★★
+  Kitchen Dining                                 4.39  ★★★★
+  Tools Home Improvement                         4.38  ★★★★
+  Industrial Scientific                          4.38  ★★★★
+  Home Storage Organization                      4.34  ★★★★
+  Computer Accessories                           4.32  ★★★★
+  Sewing, Craft Hobby                            4.31  ★★★★
+  Toys Games                                     4.29  ★★★★
+  Power Tools Hand Tools                         4.29  ★★★★
+  Electronics                                    4.27  ★★★★
+  International Food Market                      4.27  ★★★★
+  Automotive                                     4.25  ★★★★
+  Beauty                                         4.25  ★★★★
+  Pet Supplies                                   4.24  ★★★★
+  Sports Outdoors                                4.24  ★★★★
+  Home Portable Audio                            4.23  ★★★★
+  Hardware                                       4.22  ★★★★
+  Home Textiles                                  4.21  ★★★★
+  Cables Accessories                             4.20  ★★★★
+  Hand Tools                                     4.20  ★★★★
+  Tableware                                      4.19  ★★★★
+  Automotive Replacement Parts                   4.19  ★★★★
+  Patio, Lawn Garden                             4.18  ★★★★
+  Power Hand Tools                               4.17  ★★★★
+  Camera Photo                                   4.17  ★★★★
+  Televisions Video                              4.16  ★★★★
+  Action Figures, Maquettes Busts                4.14  ★★★★
+  Exercise Fitness Equipment                     4.13  ★★★★
+  Office Products                                4.13  ★★★★
+  Furniture                                      4.13  ★★★★
+  Tablet Accessories                             4.11  ★★★★
+  Kitchen Utensils Gadgets                       4.10  ★★★★
+  Bedding                                        4.09  ★★★★
+  Kitchen Storage Organization                   4.09  ★★★★
+  Outdoor Gear                                   4.09  ★★★★
+  STEM                                           4.09  ★★★★
+  Bath Products                                  4.09  ★★★★
+  Household Supplies                             4.09  ★★★★
+  Bakeware                                       4.08  ★★★★
+  Electrical Equipment                           4.07  ★★★★
+  Men                                            4.07  ★★★★
+  Dog Supplies                                   4.06  ★★★★
+  Musical Instruments, Stage Studio              4.06  ★★★★
+  Laptop Netbook Computer Accessories            4.06  ★★★★
+  Home Décor                                     4.05  ★★★★
+  Clothing, Shoes Jewellery                      4.05  ★★★★
+  Health Care Products                           4.04  ★★★★
+  Small Appliances                               4.04  ★★★★
+  Games Accessories                              4.02  ★★★★
+  Women                                          4.01  ★★★★
+  Building Construction Toys                     4.01  ★★★★
+  Building Supplies                              4.00  ★★★★
+  Cycling Equipment                              3.99  ★★★
+  Grocery                                        3.97  ★★★
+  Kitchen Knives Cutlery Accessories             3.97  ★★★
+  Outdoor Cooking                                3.95  ★★★
+  Paper Plastic Household Supplies               3.94  ★★★
+  Hunting Fishing                                3.94  ★★★
+  Team Sports                                    3.93  ★★★
+  TV Accessories                                 3.92  ★★★
+  RV Parts Accessories                           3.91  ★★★
+  Stationery Party Supplies                      3.91  ★★★
+  Vitamins, Minerals Supplements                 3.90  ★★★
+  Large Appliances                               3.89  ★★★
+  Kitchen Bath Fixtures                          3.88  ★★★
+  Luggage Travel Gear                            3.88  ★★★
+  Men's Shoes                                    3.87  ★★★
+  Keyboards, Mice Input Devices                  3.87  ★★★
+  Boating Watersports                            3.86  ★★★
+  Nails, Screws Fasteners                        3.86  ★★★
+  Automotive Tools Equipment                     3.86  ★★★
+  Camping Hiking Equipment                       3.86  ★★★
+  Kitchen Cookware                               3.85  ★★★
+  Food Service Equipment Supplies                3.83  ★★★
+  Outdoor Power Lawn Equipment                   3.81  ★★★
+  Women's Clothing                               3.81  ★★★
+  Occupational Health Safety Products            3.81  ★★★
+  Garden Structures Germination Equipment        3.80  ★★★
+  Action Sports                                  3.80  ★★★
+  Arts Crafts Supplies                           3.79  ★★★
+  Janitorial Sanitation Supplies                 3.78  ★★★
+  Vacuums Floor Care                             3.78  ★★★
+  Smart Home                                     3.77  ★★★
+  Automotive Exterior Accessories                3.77  ★★★
+  Computer Components                            3.76  ★★★
+  Golf Equipment                                 3.76  ★★★
+  Hair Care                                      3.73  ★★★
+  Hobbies                                        3.72  ★★★
+  Automotive Interior Accessories                3.71  ★★★
+  Men's Clothing                                 3.71  ★★★
+  Barware                                        3.70  ★★★
+  Commerical Door Products                       3.69  ★★★
+  Women's Shoes                                  3.69  ★★★
+  Patio Furniture Accessories                    3.69  ★★★
+  Motorcycle Accessories Parts                   3.68  ★★★
+  Men's Accessories                              3.67  ★★★
+  Vehicle Electronics                            3.67  ★★★
+  Car Electronics Accessories                    3.65  ★★★
+  Data Storage                                   3.65  ★★★
+  Printer Accessories                            3.64  ★★★
+  Sport Specific Clothing                        3.64  ★★★
+  Snow Ice Sports                                3.63  ★★★
+  Outdoor Décor                                  3.63  ★★★
+  Medical Supplies Equipment                     3.63  ★★★
+  Outdoor Play Toys                              3.63  ★★★
+  Paint, Body Trim Products                      3.61  ★★★
+  Coffee, Tea Espresso                           3.61  ★★★
+  Door Hardware Locks                            3.61  ★★★
+  Artwork                                        3.60  ★★★
+  Skin Care Products                             3.59  ★★★
+  Cutting Tools                                  3.57  ★★★
+  Cabinet Hardware                               3.57  ★★★
+  Fasteners                                      3.56  ★★★
+  Farming Urban Agriculture                      3.56  ★★★
+  Cat Supplies                                   3.56  ★★★
+  Outdoor Lighting Products                      3.54  ★★★
+  Nursery Furniture, Bedding Décor               3.50  ★★★
+  Dolls Accessories                              3.50  ★★★
+  Pools, Hot Tubs Supplies                       3.49  ★★★
+  Heating Cooling Air Quality                    3.49  ★★★
+  Baby Toddler Toys                              3.48  ★★★
+  Oral Hygiene Products                          3.46  ★★★
+  Novelty Special Use Clothing                   3.46  ★★★
+  Girls                                          3.46  ★★★
+  Household Cleaning Tools                       3.44  ★★★
+  Hardware Adhesives Sealers                     3.44  ★★★
+  Sports Fan Shop                                3.44  ★★★
+  Leisure Sports Game Room                       3.43  ★★★
+  Toy Vehicles                                   3.41  ★★★
+  Automotive Tires Wheels                        3.39  ★★★
+  Shoe, Jewelry Watch Accessories                3.38  ★★★
+  Stuffed Plush Animals                          3.37  ★★★
+  Hydraulics, Pneumatics Plumbing                3.37  ★★★
+  Building Materials                             3.36  ★★★
+  Women's Jewelry                                3.33  ★★★
+  Lab Scientific Products                        3.31  ★★★
+  Men's Jewelry                                  3.30  ★★★
+  Beauty Tools Accessories                       3.30  ★★★
+  Automotive Care                                3.29  ★★★
+  Wellness                                       3.27  ★★★
+  Makeup                                         3.23  ★★★
+  Nail Polish Nail Decoration Products           3.22  ★★★
+  Women's Accessories                            3.21  ★★★
+  Test, Measure Inspect                          3.20  ★★★
+  Martial Arts Combat Sports                     3.19  ★★★
+  Luxury Beauty                                  3.17  ★★★
+  Abrasive Finishing Products                    3.15  ★★★
+  Sporting Apparel                               3.10  ★★★
+  Bath Body                                      3.09  ★★★
+  Baby                                           3.06  ★★★
+  Boys                                           3.00  ★★★
+  Bathroom Hardware                              2.92  ★★
+  Networking Products                            2.90  ★★
+  Outdoor Recreation Apparel Equipment           2.81  ★★
+  Industrial Hardware                            2.80  ★★
+  Power Transmission Products                    2.78  ★★
+  Material Handling                              2.74  ★★
+  Collectible Toys                               2.60  ★★
+  Breakfast Cereal                               2.58  ★★
+  Bikes, Scooters Ride-Ons                       2.57  ★★
+  Filtration                                     2.47  ★★
+  Furniture Hardware                             2.40  ★★
+  Men's Watches                                  2.35  ★★
+  Game Hardware                                  2.34  ★★
+  Sex Sensuality Products                        2.28  ★★
+  Satellite Television Equipment                 2.28  ★★
+  Household Cleaning                             2.24  ★★
+  Vision Care Products                           2.24  ★★
+  Diet Nutrition Products                        2.23  ★★
+  Women's Handbags                               2.15  ★★
+  Computer Cable Adapters                        2.10  ★★
+  Shaving Hair Removal Products                  2.09  ★★
+  Irons, Steamers Accessories                    2.03  ★★
+  Electronics Gadgets                            2.00  ★
+  Perfume Cologne                                1.98  ★
+  Flashlights                                    1.93  ★
+  3D Printing Scanning                           1.92  ★
+  Home Brewing Wine Making                       1.92  ★
+  Desktop Computers                              1.92  ★
+  Plants Seeds Bulbs                             1.88  ★
+  Laptop Computers                               1.88  ★
+  Air Freshener Supplies                         1.78  ★
+  Uniforms, Work Safety                          1.76  ★
+  Professional Medical Supplies                  1.64  ★
+  Backyard Birding                               1.60  ★
+  Tarps Tie-Downs                                1.59  ★
+  Computer Audio Video Accessories               1.54  ★
+  Oils Fluids                                    1.50  ★
+  Memory Cards                                   1.49  ★
+  Computer Hard Drive Accessories                1.47  ★
+  Cigarette Lighters                             1.44  ★
+  Women's Health Family Planning                 1.37  ★
+  Swimming Pool Outdoor Water Toys               1.37  ★
+  Kids' Slumber Bags                             1.34  ★
+  Computer Monitor Accessories                   1.31  ★
+  Household Batteries                            1.27  ★
+  Laundry Supplies                               1.26  ★
+  USB Gadgets                                    1.22  ★
+  Computer Monitors                              1.21  ★
+  Locks Hasps                                    1.12  ★
+  Industrial Materials                           1.11  ★
+  Outdoor Heating Cooling                        1.06  ★
+  Women's Watches                                1.05  ★
+  Water Coolers, Filters Cartridges              1.04  ★
+  Blu-ray Players Recorders                      1.00  ★
+  USB Hubs                                       0.98  
+  Home Audio Speakers                            0.87  
+  Toy Foam Blasters Guns                         0.85  
+  Shelf Brackets Supports                        0.85  
+  Science Education Supplies                     0.84  
+  Computer Uninterrupted Power Supply            0.78  
+  Pest Control                                   0.77  
+  Dishwashing Supplies                           0.75  
+  Memory Card Accessories                        0.74  
+  Kids' Ball Pits Accessories                    0.73  
+  Hardware Hooks                                 0.69  
+  Pogo Sticks Hopping Toys                       0.66  
+  Audio/Video Receivers Amplifiers               0.63  
+  Window Hardware                                0.60  
+  Job Site Lighting                              0.59  
+  Gate Hardware                                  0.59  
+  Handmade in Canada                             0.58  
+  Toy Sports Equipment                           0.57  
+  Handmade Toys Games                            0.55  
+  Handmade Jewellery                             0.55  
+  House Numbers, Plaques Signs                   0.55  
+  Tattooing Supplies                             0.53  
+  Handmade Beauty Grooming Products              0.52  
+  Outdoor Storage Housing                        0.47  
+  Baby Child Care Products                       0.46  
+  Salon Spa Equipment                            0.45  
+  Material Transport Equipment                   0.43  
+  Awards                                         0.42  
+  Bubble Blowing Products                        0.42  
+  Kids' Play Tents Tunnels                       0.39  
+  Handmade Stationery Party Supplies             0.38  
+  Beanbag Foot Bags                              0.36  
+  Indoor Insect Pest Control                     0.36  
+  Home Theatre Systems                           0.35  
+  Printers                                       0.34  
+  Garage Door Hardware                           0.33  
+  Weather Thermometers                           0.33  
+  Mailboxes Accessories                          0.32  
+  Computer Security Cables                       0.31  
+  Handmade Baby Products                         0.30  
+  Ladders                                        0.29  
+  Digital Media Devices                          0.29  
+  Child Safety Car Seats                         0.27  
+  Handmade Clothing, Shoes Accessories           0.27  
+  Television Projectors                          0.24  
+  Handmade Artwork                               0.24  
+  Toy Gardening Equipment                        0.24  
+  Fresh Flowers Indoor Plants                    0.23  
+  Kites Wind Spinners                            0.20  
+  Sandboxes Beach Toys                           0.19  
+  Scaffolding Equipment                          0.19  
+  Play Sets Playground Equipment                 0.19  
+  Handmade Home Décor                            0.18  
+  Televisions                                    0.17  
+  Baby Strollers                                 0.15  
+  Handmade Kitchen Dining                        0.12  
+  Handmade Furniture                             0.10  
+  Children's Outdoor Inflatable Bouncers Bouncy Castles       0.08  
+  DVD Players Recorders                          0.06  
+  Handmade Bedding                               0.06  
+
+═════════════════════════════════════════════════════════════════
+  2 · PRICE DISTRIBUTION
+═════════════════════════════════════════════════════════════════
+  Segment        Count       %  Distribution
+─────────────────────────────────────────────────────────────────
+  <$10         302,595   14.0%  ######
+  $10-25       693,939   32.0%  ################
+  $25-50       560,302   25.9%  ############
+  $50-100      287,399   13.3%  ######
+  $100-250     181,481    8.4%  ####
+  $250-500      65,957    3.0%  #
+  $500+         74,253    3.4%  #
+
+═════════════════════════════════════════════════════════════════
+  3 · BESTSELLER TRENDS
+═════════════════════════════════════════════════════════════════
+
+  By Category:
+  Category                                   Count
+  ─────────────────────────────────────────────────────────────────
+  Electronics                                  459
+  Home Kitchen                                 426
+  Sports Outdoors                              351
+  Automotive Replacement Parts                 273
+  Clothing, Shoes Jewellery                    260
+  Beauty                                       258
+  Patio, Lawn Garden                           239
+  Pet Supplies                                 229
+  Industrial Scientific                        227
+  Baby                                         213
+  Grocery                                      213
+  Toys Games                                   176
+  Tools Home Improvement                       167
+  Musical Instruments, Stage Studio            160
+  Office Products                              143
+  Cycling Equipment                            132
+  Automotive                                   125
+  Women                                        122
+  Golf Equipment                               118
+  Motorcycle Accessories Parts                 101
+  Home Storage Organization                     95
+  Sewing, Craft Hobby                           94
+  Hunting Fishing                               94
+  Hand Tools                                    90
+  Boating Watersports                           87
+  Men                                           86
+  Team Sports                                   86
+  Hardware                                      82
+  Automotive Tools Equipment                    77
+  Snow Ice Sports                               75
+  Exercise Fitness Equipment                    75
+  Camera Photo                                  74
+  Health Personal Care                          72
+  Girls                                         70
+  Health Care Products                          68
+  Kitchen Utensils Gadgets                      67
+  Luggage Travel Gear                           63
+  Home Décor                                    63
+  Outdoor Gear                                  61
+  Occupational Health Safety Products           56
+  Sports Fan Shop                               56
+  Sport Specific Clothing                       52
+  Bedding                                       49
+  Nails, Screws Fasteners                       47
+  Automotive Exterior Accessories               47
+  Building Supplies                             44
+  Boys                                          43
+  Women's Shoes                                 42
+  Arts Crafts Supplies                          36
+  Men's Shoes                                   36
+  Leisure Sports Game Room                      36
+  Automotive Interior Accessories               35
+  Televisions Video                             34
+  Food Service Equipment Supplies               34
+  Furniture                                     34
+  Janitorial Sanitation Supplies                33
+  RV Parts Accessories                          28
+  Kitchen Dining                                28
+  Martial Arts Combat Sports                    27
+  Women's Clothing                              27
+  Lab Scientific Products                       26
+  Cutting Tools                                 25
+  Computer Components                           24
+  Tableware                                     24
+  Shoe, Jewelry Watch Accessories               23
+  Dog Supplies                                  23
+  Novelty Special Use Clothing                  23
+  Medical Supplies Equipment                    21
+  Automotive Tires Wheels                       20
+  Sex Sensuality Products                       20
+  Men's Clothing                                20
+  Action Sports                                 19
+  Stationery Party Supplies                     19
+  Baby Toddler Toys                             18
+  Home Portable Audio                           18
+  Bakeware                                      17
+  Automotive Care                               15
+  Household Cleaning Tools                      14
+  Bath Products                                 14
+  Test, Measure Inspect                         14
+  Perfume Cologne                               13
+  Uniforms, Work Safety                         13
+  Home Textiles                                 13
+  Handmade Jewellery                            12
+  Material Handling                             12
+  Power Tools Hand Tools                        12
+  Electrical Equipment                          12
+  Garden Structures Germination Equipment       12
+  Vehicle Electronics                           12
+  Swimming Pool Outdoor Water Toys              11
+  Household Cleaning                            11
+  Power Transmission Products                   11
+  Bikes, Scooters Ride-Ons                      11
+  Computer Monitor Accessories                  11
+  Data Storage                                  10
+  Outdoor Power Lawn Equipment                  10
+  Men's Jewelry                                 10
+  Farming Urban Agriculture                     10
+  Women's Health Family Planning                10
+  Dolls Accessories                              9
+  Power Hand Tools                               9
+  Men's Accessories                              9
+  Household Supplies                             9
+  Wellness                                       9
+  Hobbies                                        9
+  Laundry Supplies                               8
+  Printer Accessories                            8
+  Car Electronics Accessories                    8
+  Oils Fluids                                    8
+  Outdoor Lighting Products                      8
+  Kitchen Cookware                               8
+  Diet Nutrition Products                        8
+  Outdoor Décor                                  7
+  Vision Care Products                           7
+  Outdoor Cooking                                7
+  3D Printing Scanning                           6
+  Toy Sports Equipment                           6
+  Filtration                                     6
+  Women's Jewelry                                6
+  Patio Furniture Accessories                    6
+  Hydraulics, Pneumatics Plumbing                6
+  Fasteners                                      6
+  Cat Supplies                                   6
+  Kitchen Bath Fixtures                          6
+  Material Transport Equipment                   5
+  Building Construction Toys                     5
+  Industrial Materials                           5
+  Laptop Netbook Computer Accessories            5
+  Industrial Hardware                            5
+  Camping Hiking Equipment                       5
+  Paint, Body Trim Products                      5
+  Cables Accessories                             5
+  Dishwashing Supplies                           4
+  Fresh Flowers Indoor Plants                    4
+  International Food Market                      4
+  Handmade Kitchen Dining                        4
+  Handmade Clothing, Shoes Accessories           4
+  Paper Plastic Household Supplies               4
+  Women's Accessories                            4
+  Games Accessories                              4
+  Artwork                                        4
+  Flashlights                                    3
+  Sandboxes Beach Toys                           3
+  Handmade Home Décor                            3
+  Water Coolers, Filters Cartridges              3
+  Awards                                         3
+  Women's Watches                                3
+  Sporting Apparel                               3
+  Action Figures, Maquettes Busts                3
+  Handmade in Canada                             3
+  Professional Medical Supplies                  3
+  Hair Care                                      3
+  Nursery Furniture, Bedding Décor               3
+  Home Brewing Wine Making                       3
+  Beauty Tools Accessories                       2
+  Pools, Hot Tubs Supplies                       2
+  Kites Wind Spinners                            2
+  Men's Watches                                  2
+  Handmade Artwork                               2
+  Abrasive Finishing Products                    2
+  Science Education Supplies                     2
+  Kitchen Knives Cutlery Accessories             2
+  Small Appliances                               2
+  Vacuums Floor Care                             2
+  Computer Accessories                           2
+  Handmade Stationery Party Supplies             2
+  Toy Vehicles                                   2
+  Audio/Video Receivers Amplifiers               1
+  Door Hardware Locks                            1
+  Locks Hasps                                    1
+  Makeup                                         1
+  Game Hardware                                  1
+  Baby Child Care Products                       1
+  Hardware Adhesives Sealers                     1
+  Shelf Brackets Supports                        1
+  Outdoor Recreation Apparel Equipment           1
+  Commerical Door Products                       1
+  Handmade Beauty Grooming Products              1
+  Networking Products                            1
+  Child Safety Car Seats                         1
+  Heating Cooling Air Quality                    1
+  Outdoor Heating Cooling                        1
+  Tablet Accessories                             1
+  Backyard Birding                               1
+  Tarps Tie-Downs                                1
+  Plants Seeds Bulbs                             1
+  Vitamins, Minerals Supplements                 1
+
+  By Price Range:
+  Segment        Count
+  ─────────────────────────────────────────────────────────────────
+  <$10             807
+  $10-25         2,986
+  $25-50         2,357
+  $50-100          887
+  $100-250         463
+  $250-500         115
+  $500+             39
+
+═════════════════════════════════════════════════════════════════
+  4 · DEMAND ANALYSIS  (boughtInLastMonth)
+═════════════════════════════════════════════════════════════════
+  Category                                   Units Bought
+─────────────────────────────────────────────────────────────────
+  Beauty                                        3,470,100
+  Grocery                                       1,609,450
+  Home Kitchen                                  1,251,950
+  Pet Supplies                                  1,063,400
+  Health Personal Care                            988,750
+  Health Care Products                            711,300
+  Toys Games                                      678,800
+  Office Products                                 550,100
+  Home Storage Organization                       510,900
+  Baby                                            507,700
+  Electronics                                     419,650
+  Patio, Lawn Garden                              381,450
+  Clothing, Shoes Jewellery                       347,900
+  Sports Outdoors                                 329,950
+  Tools Home Improvement                          286,750
+  Kitchen Utensils Gadgets                        281,350
+  Industrial Scientific                           277,650
+  Household Cleaning                              244,500
+  Bedding                                         219,450
+  Arts Crafts Supplies                            193,600
+  Laundry Supplies                                189,950
+  Diet Nutrition Products                         179,850
+  Sewing, Craft Hobby                             169,900
+  Household Cleaning Tools                        168,050
+  Luggage Travel Gear                             162,500
+  Janitorial Sanitation Supplies                  159,100
+  Household Supplies                              152,400
+  Building Supplies                               151,700
+  Home Décor                                      148,400
+  Paper Plastic Household Supplies                144,300
+  Women's Health Family Planning                  142,200
+  Building Construction Toys                      137,600
+  Dishwashing Supplies                            125,900
+  Baby Toddler Toys                               123,050
+  Cycling Equipment                               114,750
+  Kitchen Dining                                  112,600
+  Hardware                                        111,300
+  Vitamins, Minerals Supplements                  100,150
+  Televisions Video                                95,450
+  Dolls Accessories                                95,250
+  Occupational Health Safety Products              90,050
+  Farming Urban Agriculture                        83,000
+  Automotive Tools Equipment                       80,350
+  Shoe, Jewelry Watch Accessories                  77,950
+  Breakfast Cereal                                 76,200
+  Women                                            73,950
+  Exercise Fitness Equipment                       72,000
+  Hand Tools                                       71,500
+  Automotive Replacement Parts                     69,900
+  Food Service Equipment Supplies                  62,000
+  Musical Instruments, Stage Studio                57,550
+  Automotive Interior Accessories                  56,800
+  Wellness                                         56,500
+  Furniture                                        54,850
+  Bakeware                                         54,500
+  Automotive Care                                  51,850
+  Automotive                                       47,600
+  Baby Child Care Products                         47,400
+  Sex Sensuality Products                          46,900
+  Bath Products                                    38,850
+  Outdoor Gear                                     37,850
+  Snow Ice Sports                                  37,200
+  Flashlights                                      37,000
+  Golf Equipment                                   37,000
+  Perfume Cologne                                  35,900
+  Tableware                                        35,350
+  Dog Supplies                                     31,700
+  Kitchen Cookware                                 31,400
+  Vacuums Floor Care                               29,850
+  Motorcycle Accessories Parts                     29,800
+  Stationery Party Supplies                        29,700
+  RV Parts Accessories                             28,450
+  Vision Care Products                             27,600
+  Men                                              25,050
+  Water Coolers, Filters Cartridges                24,900
+  Home Textiles                                    24,150
+  Medical Supplies Equipment                       22,000
+  Automotive Exterior Accessories                  20,100
+  Small Appliances                                 19,800
+  Automotive Tires Wheels                          19,300
+  Outdoor Lighting Products                        18,850
+  Hunting Fishing                                  18,000
+  Girls                                            17,850
+  Team Sports                                      17,750
+  Power Tools Hand Tools                           17,000
+  Women's Shoes                                    14,850
+  Hair Care                                        14,500
+  Cat Supplies                                     14,150
+  Leisure Sports Game Room                         13,450
+  Skin Care Products                               13,050
+  Novelty Special Use Clothing                     12,350
+  International Food Market                        12,100
+  Sport Specific Clothing                          12,050
+  Laptop Netbook Computer Accessories              11,450
+  Boating Watersports                              11,400
+  Nails, Screws Fasteners                          10,700
+  Men's Jewelry                                    10,550
+  Games Accessories                                10,450
+  Large Appliances                                 10,200
+  Irons, Steamers Accessories                       9,900
+  3D Printing Scanning                              9,350
+  Action Figures, Maquettes Busts                   9,100
+  Toy Sports Equipment                              8,900
+  Men's Shoes                                       8,350
+  Men's Watches                                     8,300
+  Electrical Equipment                              7,600
+  Kitchen Bath Fixtures                             7,500
+  Kitchen Storage Organization                      7,350
+  Coffee, Tea Espresso                              7,250
+  Pools, Hot Tubs Supplies                          6,950
+  Men's Accessories                                 6,850
+  Computer Components                               6,800
+  Swimming Pool Outdoor Water Toys                  6,650
+  Outdoor Cooking                                   6,450
+  Oils Fluids                                       6,450
+  Stuffed Plush Animals                             6,250
+  Artwork                                           5,900
+  Cutting Tools                                     5,800
+  Beauty Tools Accessories                          5,700
+  Power Hand Tools                                  5,600
+  Camera Photo                                      5,450
+  Bath Body                                         5,400
+  Kitchen Knives Cutlery Accessories                5,250
+  Computer Accessories                              5,250
+  Makeup                                            4,850
+  Home Portable Audio                               4,850
+  Boys                                              4,600
+  Oral Hygiene Products                             4,350
+  Shaving Hair Removal Products                     4,150
+  Printer Accessories                               3,950
+  Martial Arts Combat Sports                        3,900
+  Outdoor Play Toys                                 3,500
+  Men's Clothing                                    3,400
+  Sports Fan Shop                                   3,250
+  Nail Polish Nail Decoration Products              3,000
+  Women's Clothing                                  2,950
+  Toy Vehicles                                      2,900
+  Camping Hiking Equipment                          2,800
+  Industrial Materials                              2,550
+  Women's Watches                                   2,250
+  Fresh Flowers Indoor Plants                       1,950
+  Women's Accessories                               1,850
+  Women's Jewelry                                   1,850
+  Material Transport Equipment                      1,800
+  Professional Medical Supplies                     1,800
+  Home Brewing Wine Making                          1,800
+  Test, Measure Inspect                             1,700
+  Outdoor Décor                                     1,600
+  Handmade Jewellery                                1,550
+  Garden Structures Germination Equipment           1,550
+  Outdoor Power Lawn Equipment                      1,500
+  Bikes, Scooters Ride-Ons                          1,350
+  Patio Furniture Accessories                       1,350
+  Uniforms, Work Safety                             1,350
+  Weather Thermometers                              1,300
+  Material Handling                                 1,250
+  Awards                                            1,150
+  Vehicle Electronics                               1,100
+  Lab Scientific Products                           1,000
+  Collectible Toys                                    950
+  Child Safety Car Seats                              950
+  Hobbies                                             900
+  Nursery Furniture, Bedding Décor                    850
+  Handmade Home Décor                                 800
+  Outdoor Recreation Apparel Equipment                750
+  Filtration                                          750
+  Paint, Body Trim Products                           750
+  Action Sports                                       700
+  Indoor Insect Pest Control                          650
+  Cables Accessories                                  650
+  Baby Strollers                                      600
+  Heating Cooling Air Quality                         600
+  Air Freshener Supplies                              550
+  Handmade Beauty Grooming Products                   500
+  Sporting Apparel                                    450
+  Plants Seeds Bulbs                                  450
+  Household Batteries                                 400
+  Women's Handbags                                    350
+  Hardware Adhesives Sealers                          350
+  Abrasive Finishing Products                         350
+  Barware                                             350
+  Kids' Play Tents Tunnels                            300
+  Sandboxes Beach Toys                                250
+  Game Hardware                                       250
+  Luxury Beauty                                       250
+  Computer Monitor Accessories                        250
+  Outdoor Heating Cooling                             250
+  USB Gadgets                                         250
+  TV Accessories                                      200
+  Car Electronics Accessories                         200
+  Networking Products                                 200
+  Handmade in Canada                                  200
+  Computer Audio Video Accessories                    200
+  Hydraulics, Pneumatics Plumbing                     200
+  Tarps Tie-Downs                                     200
+  Computer Cable Adapters                             200
+  Keyboards, Mice Input Devices                       200
+  Audio/Video Receivers Amplifiers                    150
+  Furniture Hardware                                  150
+  Salon Spa Equipment                                 150
+  Printers                                            150
+  Handmade Kitchen Dining                             150
+  Industrial Hardware                                 150
+  Science Education Supplies                          150
+  Pest Control                                        150
+  Power Transmission Products                         100
+  Handmade Stationery Party Supplies                  100
+  Backyard Birding                                    100
+  Pogo Sticks Hopping Toys                             50
+  Data Storage                                         50
+  Door Hardware Locks                                  50
+  Kites Wind Spinners                                  50
+  Bathroom Hardware                                    50
+  Window Hardware                                      50
+  Handmade Toys Games                                  50
+  Handmade Clothing, Shoes Accessories                 50
+  Cigarette Lighters                                   50
+  Electronics Gadgets                                  50
+  House Numbers, Plaques Signs                         50
+  Toy Foam Blasters Guns                               50
+  Digital Media Devices                                 0
+  Play Sets Playground Equipment                        0
+  Ladders                                               0
+  Scaffolding Equipment                                 0
+  Gate Hardware                                         0
+  Mailboxes Accessories                                 0
+  Locks Hasps                                           0
+  Satellite Television Equipment                        0
+  Televisions                                           0
+  Tattooing Supplies                                    0
+  Job Site Lighting                                     0
+  Hardware Hooks                                        0
+  Home Theatre Systems                                  0
+  Outdoor Storage Housing                               0
+  Kids' Slumber Bags                                    0
+  Garage Door Hardware                                  0
+  Shelf Brackets Supports                               0
+  Blu-ray Players Recorders                             0
+  DVD Players Recorders                                 0
+  Commerical Door Products                              0
+  Home Audio Speakers                                   0
+  Handmade Baby Products                                0
+  Handmade Artwork                                      0
+  Handmade Bedding                                      0
+  Computer Monitors                                     0
+  Smart Home                                            0
+  USB Hubs                                              0
+  Fasteners                                             0
+  Memory Cards                                          0
+  Toy Gardening Equipment                               0
+  Tablet Accessories                                    0
+  Children's Outdoor Inflatable Bouncers Bouncy Castles              0
+  Building Materials                                    0
+  Cabinet Hardware                                      0
+  Television Projectors                                 0
+  Laptop Computers                                      0
+  STEM                                                  0
+  Desktop Computers                                     0
+  Handmade Furniture                                    0
+  Computer Security Cables                              0
+  Computer Hard Drive Accessories                       0
+  Computer Uninterrupted Power Supply                   0
+  Memory Card Accessories                               0
+  Kids' Ball Pits Accessories                           0
+  Beanbag Foot Bags                                     0
+  Bubble Blowing Products                               0
+
+═════════════════════════════════════════════════════════════════
+  5 · POPULARITY SCORE vs PRICE DIFF  (by category)
+═════════════════════════════════════════════════════════════════
+  Category                                   Avg Pop  Avg D.Price  # Products
+─────────────────────────────────────────────────────────────────
+  Electronics                              29365.445  $    -85.43      16,784
+  Home Kitchen                             24721.366  $    -32.21       3,519
+  Computer Accessories                     22320.311  $    -42.58       1,339
+  Data Storage                             16265.101  $   -114.10       9,542
+  Televisions Video                        13512.632  $   -102.54       8,696
+  Cables Accessories                       13443.145  $    -25.73       4,752
+  Kitchen Dining                           12460.114  $    -42.26       1,437
+  Clothing, Shoes Jewellery                11962.407  $    -22.44       5,123
+  Beauty                                   11706.788  $    -17.38      18,728
+  Tools Home Improvement                   11462.787  $    -36.13       3,021
+  Pet Supplies                             11074.307  $    -25.52       9,443
+  Home Storage Organization                10457.523  $    -28.04       5,878
+  Bedding                                  10172.345  $    -43.46       5,990
+  Office Products                          10097.767  $    -20.27       7,325
+  Home Portable Audio                       9954.946  $    -78.61       4,486
+  Toys Games                                8909.379  $    -24.97       5,604
+  Exercise Fitness Equipment                8848.246  $    -53.34       4,723
+  Health Personal Care                      8695.916  $    -22.18       2,285
+  Sports Outdoors                           8452.188  $    -14.45       6,716
+  Industrial Scientific                     8279.345  $    -32.14       5,330
+  Tablet Accessories                        7777.015  $    -29.07       7,564
+  Household Supplies                        7635.047  $    -21.37       3,496
+  Men                                       7412.036  $    -36.53      16,176
+  Kitchen Utensils Gadgets                  7112.868  $    -20.30       6,308
+  Laptop Netbook Computer Accessories       6867.251  $    -40.90       7,995
+  Women                                     6362.442  $    -23.30      15,743
+  Home Textiles                             6289.702  $    -31.17       2,946
+  Dog Supplies                              6275.543  $    -29.47       4,981
+  Keyboards, Mice Input Devices             6191.197  $    -37.80       8,189
+  Small Appliances                          5979.413  $    -72.82       4,660
+  Smart Home                                5935.160  $   -260.25         732
+  Memory Cards                              5686.368  $    -70.76       9,230
+  Computer Components                       5651.572  $   -101.35       9,529
+  TV Accessories                            5604.242  $    -41.39       1,656
+  Bath Products                             5522.922  $    -29.31       3,590
+  Health Care Products                      5354.034  $    -22.88       7,293
+  Automotive                                5264.401  $    -32.95       3,421
+  Furniture                                 5205.491  $    -98.37       5,608
+  Camera Photo                              5014.285  $   -177.14       6,567
+  Patio, Lawn Garden                        5007.068  $    -36.17       9,200
+  Home Décor                                4889.854  $    -25.88       6,091
+  Hardware                                  4826.663  $    -24.99       6,700
+  Sewing, Craft Hobby                       4545.564  $    -19.35       6,463
+  Women's Clothing                          4511.200  $    -32.09       9,525
+  Men's Clothing                            4328.188  $    -41.05      10,099
+  Cycling Equipment                         4099.266  $    -41.23      10,594
+  Team Sports                               4085.854  $    -35.45       5,249
+  Women's Shoes                             4037.556  $    -62.47      17,948
+  Kitchen Storage Organization              3974.959  $    -26.54       3,551
+  Outdoor Gear                              3920.655  $    -50.31       4,587
+  Sport Specific Clothing                   3914.362  $    -33.78       7,563
+  Building Supplies                         3820.265  $    -64.99       7,990
+  Vehicle Electronics                       3596.993  $   -119.65       2,349
+  Grocery                                   3542.271  $    -22.17      16,726
+  Printer Accessories                       3539.400  $    -76.34       8,467
+  Men's Shoes                               3520.032  $    -86.63      18,693
+  Power Tools Hand Tools                    3423.758  $    -44.16       2,314
+  STEM                                      3337.769  $    -44.86         280
+  Household Cleaning Tools                  3311.970  $    -28.07       9,069
+  International Food Market                 3237.989  $    -16.04         180
+  Hand Tools                                3216.814  $    -34.48       8,216
+  Cat Supplies                              3200.222  $    -29.91       6,980
+  Bakeware                                  3191.609  $    -21.12       6,104
+  Kitchen Cookware                          3088.499  $    -47.97       6,090
+  Medical Supplies Equipment                3042.472  $    -50.57       6,079
+  Musical Instruments, Stage Studio         3029.383  $    -71.09       9,063
+  Baby                                      2973.744  $    -24.59      25,664
+  Coffee, Tea Espresso                      2973.066  $    -46.95       4,252
+  Action Sports                             2968.860  $    -58.55         991
+  Baby Toddler Toys                         2966.988  $    -32.10       8,193
+  Household Cleaning                        2935.499  $    -64.13       9,401
+  Tableware                                 2933.780  $    -27.57       5,408
+  Paper Plastic Household Supplies          2906.641  $    -36.65       7,292
+  Game Hardware                             2888.706  $    -46.50       8,183
+  Outdoor Recreation Apparel Equipment      2851.953  $    -39.03       1,485
+  Janitorial Sanitation Supplies            2827.016  $    -66.97       7,661
+  Arts Crafts Supplies                      2768.559  $    -20.14      10,472
+  Luggage Travel Gear                       2726.598  $    -36.05      22,990
+  Dolls Accessories                         2684.333  $    -31.76       9,434
+  Games Accessories                         2635.465  $    -33.48       8,111
+  Building Construction Toys                2607.618  $    -61.18       9,769
+  Action Figures, Maquettes Busts           2595.567  $    -32.87       9,780
+  Oral Hygiene Products                     2560.593  $    -25.58       6,737
+  Automotive Care                           2494.340  $    -35.52       9,372
+  Boating Watersports                       2463.570  $    -45.75       9,597
+  Automotive Replacement Parts              2419.769  $    -48.46      11,442
+  Camping Hiking Equipment                  2413.185  $    -47.54       3,447
+  Hair Care                                 2402.256  $    -24.32      12,015
+  Skin Care Products                        2401.374  $    -28.23      10,577
+  Golf Equipment                            2377.158  $    -39.21       9,151
+  Electrical Equipment                      2368.875  $    -27.53       6,719
+  Snow Ice Sports                           2328.820  $    -48.31      11,078
+  Occupational Health Safety Products       2310.178  $    -40.00      10,250
+  Automotive Tools Equipment                2306.864  $    -67.22      10,526
+  Vacuums Floor Care                        2296.751  $    -56.89       5,147
+  Kitchen Knives Cutlery Accessories        2270.833  $    -58.15       5,923
+  Kitchen Bath Fixtures                     2216.973  $    -91.68       5,260
+  Power Hand Tools                          2179.681  $    -51.98       4,911
+  Automotive Interior Accessories           2127.421  $    -51.16       8,403
+  Networking Products                       2099.428  $   -176.24       8,430
+  Outdoor Play Toys                         2097.717  $    -67.54       4,142
+  Food Service Equipment Supplies           2045.298  $    -32.25       8,932
+  Laundry Supplies                          2011.989  $    -26.96       9,484
+  Garden Structures Germination Equipment   1991.687  $    -33.87       3,941
+  Sporting Apparel                          1914.820  $    -29.57       6,068
+  Bath Body                                 1852.137  $    -27.63      17,283
+  Computer Cable Adapters                   1839.071  $    -22.70       9,204
+  Hunting Fishing                           1813.416  $    -44.39      10,976
+  Wellness                                  1800.246  $    -33.73       7,494
+  Outdoor Cooking                           1797.642  $    -56.99       8,689
+  Heating Cooling Air Quality               1785.081  $    -77.04       2,951
+  Barware                                   1738.340  $    -27.13         976
+  Makeup                                    1734.215  $    -18.90      10,642
+  Commerical Door Products                  1729.460  $    -57.20         751
+  Nursery Furniture, Bedding Décor          1722.054  $    -41.21       7,307
+  RV Parts Accessories                      1715.541  $   -124.29       9,727
+  Men's Accessories                         1711.028  $    -39.62      12,046
+  Hardware Adhesives Sealers                1671.114  $    -36.11       8,059
+  Martial Arts Combat Sports                1609.758  $    -51.31       6,714
+  Shoe, Jewelry Watch Accessories           1583.155  $    -24.17      14,855
+  Boys                                      1581.237  $    -32.31      18,545
+  Diet Nutrition Products                   1580.401  $    -53.52       8,238
+  Large Appliances                          1564.674  $    -58.99       5,854
+  Girls                                     1510.488  $    -27.39      15,012
+  Car Electronics Accessories               1471.530  $    -57.06       7,665
+  Women's Accessories                       1459.443  $    -26.20      10,186
+  Stationery Party Supplies                 1445.057  $    -17.86       7,974
+  Women's Health Family Planning            1441.114  $    -29.85       8,535
+  Novelty Special Use Clothing              1391.638  $    -29.59      13,625
+  Pools, Hot Tubs Supplies                  1388.329  $    -94.26       8,588
+  Irons, Steamers Accessories               1381.813  $    -66.83       6,223
+  Automotive Exterior Accessories           1381.509  $    -63.41       7,077
+  Perfume Cologne                           1373.518  $    -43.63      18,794
+  Computer Audio Video Accessories          1324.710  $   -112.50       7,388
+  Beauty Tools Accessories                  1313.787  $    -21.64      16,421
+  Farming Urban Agriculture                 1275.711  $    -34.70       7,033
+  Outdoor Lighting Products                 1269.714  $    -64.87       8,555
+  Outdoor Décor                             1245.784  $    -29.34       7,128
+  Shaving Hair Removal Products             1236.429  $    -35.05      17,938
+  Nail Polish Nail Decoration Products      1235.543  $    -19.15      16,162
+  Patio Furniture Accessories               1233.204  $   -107.43       8,243
+  Stuffed Plush Animals                     1183.376  $    -26.79       9,033
+  Vision Care Products                      1182.474  $    -57.51       9,095
+  Satellite Television Equipment            1167.989  $    -57.45       6,555
+  Hobbies                                   1142.604  $    -39.80       8,090
+  Nails, Screws Fasteners                   1141.117  $    -20.67       8,000
+  Sports Fan Shop                           1137.478  $    -30.77       7,889
+  Artwork                                   1124.769  $    -25.69       6,029
+  Outdoor Power Lawn Equipment              1106.021  $    -52.80       8,058
+  Flashlights                               1090.676  $    -51.16       9,561
+  Breakfast Cereal                          1079.325  $    -45.54       2,949
+  Leisure Sports Game Room                  1067.850  $    -57.72       8,036
+  Air Freshener Supplies                    1060.076  $    -41.17       4,315
+  Vitamins, Minerals Supplements            1048.190  $    -33.16       6,650
+  Water Coolers, Filters Cartridges         1038.763  $   -197.56       6,270
+  Motorcycle Accessories Parts              1033.851  $    -52.80      13,035
+  Toy Vehicles                              1024.372  $    -41.39       9,013
+  Uniforms, Work Safety                     1001.911  $    -42.73      17,983
+  Automotive Tires Wheels                    990.689  $    -69.48      10,071
+  Dishwashing Supplies                       948.192  $    -17.12       9,294
+  Computer Monitors                          929.432  $   -413.78       9,069
+  Men's Jewelry                              923.417  $    -26.02      18,448
+  Women's Jewelry                            900.983  $    -25.79      12,848
+  Sex Sensuality Products                    872.756  $    -37.77       7,585
+  Men's Watches                              866.124  $   -142.36      18,672
+  Memory Card Accessories                    817.519  $    -21.92       9,104
+  Luxury Beauty                              810.777  $    -48.55       1,408
+  Door Hardware Locks                        804.192  $    -45.73       8,144
+  Computer Monitor Accessories               767.625  $    -80.11       9,021
+  Paint, Body Trim Products                  765.954  $    -64.10       7,832
+  Bathroom Hardware                          737.312  $    -56.92       8,690
+  USB Hubs                                   736.835  $    -80.26       8,974
+  USB Gadgets                                733.383  $    -40.83       6,504
+  Bikes, Scooters Ride-Ons                   723.907  $    -96.70       9,046
+  Swimming Pool Outdoor Water Toys           722.055  $    -34.19       9,331
+  Building Materials                         721.652  $    -65.29       6,111
+  Computer Hard Drive Accessories            719.913  $    -34.72       7,112
+  Filtration                                 687.790  $   -115.98       8,443
+  Electronics Gadgets                        674.597  $    -85.15       8,471
+  Backyard Birding                           655.227  $    -52.22       9,280
+  Test, Measure Inspect                      645.873  $    -74.63       9,165
+  Professional Medical Supplies              614.050  $    -51.27       8,847
+  Household Batteries                        611.385  $    -33.79       8,071
+  Blu-ray Players Recorders                  575.985  $   -261.51         644
+  Oils Fluids                                566.456  $    -46.28       9,034
+  Women's Handbags                           530.601  $    -74.87      16,146
+  Lab Scientific Products                    515.215  $    -47.75       6,709
+  Cabinet Hardware                           514.981  $    -27.33       7,933
+  Cutting Tools                              496.752  $    -39.69       9,225
+  Baby Child Care Products                   486.488  $    -25.32       8,524
+  Abrasive Finishing Products                459.628  $    -39.28       8,644
+  Laptop Computers                           430.821  $  -1140.98       8,911
+  Furniture Hardware                         390.844  $    -45.68       8,969
+  Material Handling                          382.089  $   -100.36       6,771
+  Collectible Toys                           371.869  $    -40.87       9,302
+  Hydraulics, Pneumatics Plumbing            358.927  $    -56.19       9,295
+  Home Brewing Wine Making                   357.355  $   -156.94       6,250
+  Kids' Slumber Bags                         348.775  $    -91.41       1,176
+  Fasteners                                  329.457  $    -22.11       4,738
+  3D Printing Scanning                       328.757  $    -71.48       9,469
+  Tarps Tie-Downs                            316.487  $   -126.95       8,276
+  Outdoor Heating Cooling                    308.993  $   -698.21       8,981
+  Women's Watches                            299.565  $    -78.85      18,437
+  Cigarette Lighters                         297.695  $   -325.50       8,538
+  Home Audio Speakers                        285.900  $   -506.30       9,055
+  Pest Control                               279.053  $    -46.30       7,951
+  Industrial Hardware                        272.805  $    -39.38       5,788
+  Digital Media Devices                      260.950  $   -177.57       4,210
+  Toy Sports Equipment                       241.553  $    -24.41       8,061
+  Locks Hasps                                218.411  $    -50.28       9,030
+  Hardware Hooks                             217.136  $    -51.16       9,227
+  Printers                                   165.192  $   -154.34       9,430
+  Plants Seeds Bulbs                         163.318  $    -13.04       6,856
+  Toy Foam Blasters Guns                     160.515  $    -34.56       4,005
+  Desktop Computers                          153.033  $  -2186.11       9,141
+  Window Hardware                            142.226  $    -49.36       9,082
+  Material Transport Equipment               135.031  $   -550.12       9,515
+  Shelf Brackets Supports                    129.560  $    -29.88       9,028
+  Computer Uninterrupted Power Supply        121.606  $   -253.24       9,458
+  Home Theatre Systems                       121.249  $   -104.71       3,809
+  Outdoor Storage Housing                    118.069  $   -647.65       8,115
+  Televisions                                118.057  $   -123.01       8,950
+  Weather Thermometers                       116.026  $    -82.89       9,489
+  Salon Spa Equipment                        115.468  $   -518.44      16,736
+  Sandboxes Beach Toys                       103.753  $    -18.79       7,298
+  Power Transmission Products                101.269  $    -29.85       9,451
+  Ladders                                     99.190  $   -571.75       9,299
+  Job Site Lighting                           98.888  $    -43.49       2,696
+  Pogo Sticks Hopping Toys                    96.801  $    -88.40       1,323
+  Industrial Materials                        93.209  $    -54.61       9,471
+  Kids' Ball Pits Accessories                 93.125  $    -51.91         788
+  Science Education Supplies                  88.108  $   -399.64       9,447
+  Kids' Play Tents Tunnels                    86.552  $   -211.12       4,106
+  Mailboxes Accessories                       84.170  $    -50.55       9,510
+  Garage Door Hardware                        80.160  $    -62.27       9,435
+  Audio/Video Receivers Amplifiers            77.580  $   -133.29       5,512
+  Gate Hardware                               76.421  $   -186.65       9,451
+  Fresh Flowers Indoor Plants                 75.135  $    -96.19       9,502
+  Beanbag Foot Bags                           74.951  $    -40.41       3,025
+  Bubble Blowing Products                     72.281  $    -26.84       6,541
+  House Numbers, Plaques Signs                69.159  $    -35.45       9,475
+  Tattooing Supplies                          66.646  $    -64.01      10,028
+  Toy Gardening Equipment                     57.210  $    -26.33       2,312
+  Child Safety Car Seats                      55.062  $    -30.05       6,961
+  Indoor Insect Pest Control                  53.018  $   -159.10       4,037
+  Kites Wind Spinners                         41.920  $   -186.92       9,544
+  Television Projectors                       39.484  $   -379.16       8,709
+  Baby Strollers                              38.786  $   -128.80       9,567
+  Awards                                      37.477  $    -41.51       9,467
+  DVD Players Recorders                       30.732  $   -106.00       9,523
+  Computer Security Cables                    21.337  $    -49.70       1,672
+  Play Sets Playground Equipment              21.328  $   -195.86       8,555
+  Handmade Beauty Grooming Products           19.141  $   -147.61       1,343
+  Handmade Stationery Party Supplies          17.359  $    -25.45       3,401
+  Scaffolding Equipment                       15.225  $   -453.14       1,772
+  Children's Outdoor Inflatable Bouncers Bouncy Castles    10.875  $  -3728.93       9,179
+  Handmade Jewellery                          10.362  $    -79.26      18,550
+  Handmade in Canada                           8.491  $    -52.05       6,108
+  Handmade Toys Games                          7.220  $    -93.73       1,641
+  Handmade Baby Products                       5.690  $    -68.76         790
+  Handmade Home Décor                          3.624  $    -73.27      19,150
+  Handmade Artwork                             3.506  $   -125.92      13,624
+  Handmade Kitchen Dining                      2.644  $    -32.12      19,074
+  Handmade Clothing, Shoes Accessories         1.688  $   -102.01      11,909
+  Handmade Furniture                           0.155  $  -1293.08       2,216
+  Handmade Bedding                             0.103  $    -65.47       1,383
+
+═════════════════════════════════════════════════════════════════
+  DONE — all 5 MapReduce passes complete.
+═════════════════════════════════════════════════════════════════
