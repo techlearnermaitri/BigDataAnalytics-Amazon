@@ -4,6 +4,7 @@ This project analyzes Amazon Canada product data using Big Data tools and techni
 
 The workflow includes data preprocessing, MapReduce-based aggregation, Hive-based querying, machine learning using PySpark, and data visualization.
 
+link to dashboard: https://bigdataanalytics-amazon-32vbstlkaxqo4rqqihywop.streamlit.app
 ---
 
 ## Objectives
